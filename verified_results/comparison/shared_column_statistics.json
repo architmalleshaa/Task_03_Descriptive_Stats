@@ -1,0 +1,866 @@
+{
+  "advocacy_msg_type_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.5486311779367363,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.49763039712576856,
+      "median": 1.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.549266137092956,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.4975800160795739,
+      "median": 1.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.5636859491434278,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.49593703963228036,
+      "median": 1.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "attack_msg_type_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.27185555938316885,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.44491675228584093,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.2166868325530012,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.4119982751678419,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.3075977567795959,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.46150791760416376,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "covid_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.024875884009807697,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.15574714351540456,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.05239623336314377,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.22283060875079397,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.0076054390412537455,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.08687857194055204,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "cta_msg_type_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.5727694583476869,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.49467726617114893,
+      "median": 1.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.1328318165079699,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3394018046223717,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.10966428516555274,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.31247684757947275,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "economy_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.12212202881517356,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3274273558898461,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.09037824188542269,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.2867304314176825,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.16021356687408772,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3668110523395825,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "education_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.01432653143934021,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.11883324100080564,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.014992898100899574,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.12152731400515626,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.01843742797879696,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.13452949268938846,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "engagement_cta_subtype_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.12486980485926767,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.33057189773339457,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.0908517018254511,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.28740566368291404,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.0669124990397173,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.24987519849406606,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "environment_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.02124865752092241,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.14421246950536115,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.022252617181335158,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.14750790777543615,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.028539602058846123,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.16651173583618067,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "foreign_policy_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.005264544367667025,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.07236608434896528,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.03687726866221264,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.18846539275137486,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.042252439118076364,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.20116839951473553,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "fraud_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.0026383513343735433,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.051297184143630825,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.00862749224051765,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.09248518037867294,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 27304,
+      "mean": 0.0027468502783474947,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.052339329587953634,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    }
+  },
+  "freefair_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.006415530203246266,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.07983982095047255,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.0028407596401704457,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.053224418747622244,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 27304,
+      "mean": 0.0014283621447406974,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.037767369074478356,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    }
+  },
+  "fundraising_cta_subtype_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.22848689943058623,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.41985872700996546,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.01841233100110474,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.13444057384240987,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.007874318199277867,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.08838898916084756,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "governance_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.025641856977851627,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.15806471271206604,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.03109053606186543,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.17356698831044248,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.022969962356917877,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.1498105645777889,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "health_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.10918964923301384,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3118776425724781,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.04866116050291967,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.2151643265574399,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.05565798571099332,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.2292644615290389,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "image_msg_type_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.22270360088350322,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.41606178459577625,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.14856120784891366,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3556647719112419,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.22643466236460014,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.4185316409839206,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "immigration_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.03356906928205232,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.1801175126153678,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.04082276816244937,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.19788463748089133,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.06529922409157256,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.2470578473918854,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "incivility_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.18752558309185596,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.39033364735690335,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.1278867904676732,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3339724942470072,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.17857417223630637,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3830027047455516,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "issue_msg_type_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.38164907090315914,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.485792151038562,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.4603082750276185,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.498435187805786,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.507682261657832,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.4999505813425477,
+      "median": 1.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "lgbtq_issues_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.0032300553202699142,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.05674182858640465,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.0033668262402020096,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.0579281214240242,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.0030729046631328264,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.05534961243011968,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "military_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.002176335893331172,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.04660051777000881,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.0055763059603345785,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.07446813078449072,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.010985634170699855,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.10423707289416255,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "race_and_ethnicity_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.01243388923787716,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.11081217172130098,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.021568730601294123,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.14527432913517427,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.015402934623953292,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.12315139782021392,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "safety_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.03372307442906645,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.18051581854071772,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.032195275921931714,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.17652302788510535,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.03760467081508796,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.19024181908327997,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "scam_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.07163265719670105,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.25787921423700266,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 18060,
+      "mean": 0.020210409745293468,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.1407232944376072,
+      "median": 0.0,
+      "missing": 949,
+      "missing_percent": 4.992372034299542
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.012368441269109626,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.1105257081389594,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "social_and_cultural_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.10583801090194331,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3076308012712654,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.06170761218370246,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.24063006640218326,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.05197050011523392,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.22197175454151633,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "technology_and_privacy_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.0011550386026059293,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.03396629453070909,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.0020516597401230995,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.04524995190747905,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.0020357993393254974,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.04507474794044172,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "voting_cta_subtype_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.1438448600782184,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.35093306401909335,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.023409963701404597,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.15120562176830252,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.016785741722363065,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.1284702866854094,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  },
+  "womens_issue_topic_illuminating": {
+    "ads": {
+      "count": 246745,
+      "mean": 0.08090944092078867,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.27269654319083053,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "facebook": {
+      "count": 19009,
+      "mean": 0.0254616234415277,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.15752661549177788,
+      "median": 0.0,
+      "missing": 0,
+      "missing_percent": 0.0
+    },
+    "twitter": {
+      "count": 26034,
+      "mean": 0.02331566413152032,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.15090698683369944,
+      "median": 0.0,
+      "missing": 1270,
+      "missing_percent": 4.651333138001758
+    }
+  }
+}

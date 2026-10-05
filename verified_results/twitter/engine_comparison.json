@@ -1,0 +1,14 @@
+[
+  {
+    "reference": "pure_python",
+    "compared": "pandas",
+    "group_records": 29,
+    "result": "PASS"
+  },
+  {
+    "reference": "pure_python",
+    "compared": "polars",
+    "group_records": 29,
+    "result": "PASS"
+  }
+]

@@ -1,0 +1,122 @@
+pandas 2.2.3
+shape=(19009, 56)
+Facebook_Id                                                         object
+post_id                                                             object
+Page Category                                                       object
+Page Admin Top Country                                              object
+Post Created                                                        object
+Post Created Date                                                   object
+Post Created Time                                                   object
+Type                                                                object
+Total Interactions                                                  object
+Likes                                                               object
+Comments                                                            object
+Shares                                                              object
+Love                                                                object
+Wow                                                                 object
+Haha                                                                object
+Sad                                                                 object
+Angry                                                               object
+Care                                                                object
+Video Share Status                                                  object
+Is Video Owner?                                                     object
+Post Views                                                          object
+Total Views                                                         object
+Total Views For All Crossposts                                      object
+Video Length                                                        object
+Sponsor Id                                                          object
+Sponsor Name                                                        object
+Sponsor Category                                                    object
+Overperforming Score                                                object
+illuminating_scored_messageelection_integrity_Truth_illuminating    object
+advocacy_msg_type_illuminating                                      object
+issue_msg_type_illuminating                                         object
+attack_msg_type_illuminating                                        object
+image_msg_type_illuminating                                         object
+cta_msg_type_illuminating                                           object
+engagement_cta_subtype_illuminating                                 object
+fundraising_cta_subtype_illuminating                                object
+voting_cta_subtype_illuminating                                     object
+covid_topic_illuminating                                            object
+economy_topic_illuminating                                          object
+education_topic_illuminating                                        object
+environment_topic_illuminating                                      object
+foreign_policy_topic_illuminating                                   object
+governance_topic_illuminating                                       object
+health_topic_illuminating                                           object
+immigration_topic_illuminating                                      object
+lgbtq_issues_topic_illuminating                                     object
+military_topic_illuminating                                         object
+race_and_ethnicity_topic_illuminating                               object
+safety_topic_illuminating                                           object
+social_and_cultural_topic_illuminating                              object
+technology_and_privacy_topic_illuminating                           object
+womens_issue_topic_illuminating                                     object
+incivility_illuminating                                             object
+scam_illuminating                                                   object
+freefair_illuminating                                               object
+fraud_illuminating                                                  object
+dtype: object
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 19009 entries, 0 to 19008
+Data columns (total 56 columns):
+ #   Column                                                            Non-Null Count  Dtype 
+---  ------                                                            --------------  ----- 
+ 0   Facebook_Id                                                       19009 non-null  object
+ 1   post_id                                                           19009 non-null  object
+ 2   Page Category                                                     19009 non-null  object
+ 3   Page Admin Top Country                                            19009 non-null  object
+ 4   Post Created                                                      19009 non-null  object
+ 5   Post Created Date                                                 19009 non-null  object
+ 6   Post Created Time                                                 19009 non-null  object
+ 7   Type                                                              19009 non-null  object
+ 8   Total Interactions                                                19009 non-null  object
+ 9   Likes                                                             19009 non-null  object
+ 10  Comments                                                          19009 non-null  object
+ 11  Shares                                                            19009 non-null  object
+ 12  Love                                                              19009 non-null  object
+ 13  Wow                                                               19009 non-null  object
+ 14  Haha                                                              19009 non-null  object
+ 15  Sad                                                               19009 non-null  object
+ 16  Angry                                                             19009 non-null  object
+ 17  Care                                                              19009 non-null  object
+ 18  Video Share Status                                                19009 non-null  object
+ 19  Is Video Owner?                                                   19009 non-null  object
+ 20  Post Views                                                        19009 non-null  object
+ 21  Total Views                                                       19009 non-null  object
+ 22  Total Views For All Crossposts                                    19009 non-null  object
+ 23  Video Length                                                      19009 non-null  object
+ 24  Sponsor Id                                                        19009 non-null  object
+ 25  Sponsor Name                                                      19009 non-null  object
+ 26  Sponsor Category                                                  19009 non-null  object
+ 27  Overperforming Score                                              19009 non-null  object
+ 28  illuminating_scored_messageelection_integrity_Truth_illuminating  19009 non-null  object
+ 29  advocacy_msg_type_illuminating                                    19009 non-null  object
+ 30  issue_msg_type_illuminating                                       19009 non-null  object
+ 31  attack_msg_type_illuminating                                      19009 non-null  object
+ 32  image_msg_type_illuminating                                       19009 non-null  object
+ 33  cta_msg_type_illuminating                                         19009 non-null  object
+ 34  engagement_cta_subtype_illuminating                               19009 non-null  object
+ 35  fundraising_cta_subtype_illuminating                              19009 non-null  object
+ 36  voting_cta_subtype_illuminating                                   19009 non-null  object
+ 37  covid_topic_illuminating                                          19009 non-null  object
+ 38  economy_topic_illuminating                                        19009 non-null  object
+ 39  education_topic_illuminating                                      19009 non-null  object
+ 40  environment_topic_illuminating                                    19009 non-null  object
+ 41  foreign_policy_topic_illuminating                                 19009 non-null  object
+ 42  governance_topic_illuminating                                     19009 non-null  object
+ 43  health_topic_illuminating                                         19009 non-null  object
+ 44  immigration_topic_illuminating                                    19009 non-null  object
+ 45  lgbtq_issues_topic_illuminating                                   19009 non-null  object
+ 46  military_topic_illuminating                                       19009 non-null  object
+ 47  race_and_ethnicity_topic_illuminating                             19009 non-null  object
+ 48  safety_topic_illuminating                                         19009 non-null  object
+ 49  social_and_cultural_topic_illuminating                            19009 non-null  object
+ 50  technology_and_privacy_topic_illuminating                         19009 non-null  object
+ 51  womens_issue_topic_illuminating                                   19009 non-null  object
+ 52  incivility_illuminating                                           19009 non-null  object
+ 53  scam_illuminating                                                 19009 non-null  object
+ 54  freefair_illuminating                                             19009 non-null  object
+ 55  fraud_illuminating                                                19009 non-null  object
+dtypes: object(56)
+memory usage: 8.1+ MB

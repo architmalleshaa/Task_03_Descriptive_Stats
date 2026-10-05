@@ -1,0 +1,104 @@
+pandas 2.2.3
+shape=(27304, 47)
+id                                           object
+url                                          object
+source                                       object
+retweetCount                                 object
+replyCount                                   object
+likeCount                                    object
+quoteCount                                   object
+viewCount                                    object
+createdAt                                    object
+lang                                         object
+bookmarkCount                                object
+isReply                                      object
+isRetweet                                    object
+isQuote                                      object
+isConversationControlled                     object
+quoteId                                      object
+inReplyToId                                  object
+month_year                                   object
+illuminating_scored_message                  object
+election_integrity_Truth_illuminating        object
+advocacy_msg_type_illuminating               object
+issue_msg_type_illuminating                  object
+attack_msg_type_illuminating                 object
+image_msg_type_illuminating                  object
+cta_msg_type_illuminating                    object
+engagement_cta_subtype_illuminating          object
+fundraising_cta_subtype_illuminating         object
+voting_cta_subtype_illuminating              object
+covid_topic_illuminating                     object
+economy_topic_illuminating                   object
+education_topic_illuminating                 object
+environment_topic_illuminating               object
+foreign_policy_topic_illuminating            object
+governance_topic_illuminating                object
+health_topic_illuminating                    object
+immigration_topic_illuminating               object
+lgbtq_issues_topic_illuminating              object
+military_topic_illuminating                  object
+race_and_ethnicity_topic_illuminating        object
+safety_topic_illuminating                    object
+social_and_cultural_topic_illuminating       object
+technology_and_privacy_topic_illuminating    object
+womens_issue_topic_illuminating              object
+incivility_illuminating                      object
+scam_illuminating                            object
+freefair_illuminating                        object
+fraud_illuminating                           object
+dtype: object
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 27304 entries, 0 to 27303
+Data columns (total 47 columns):
+ #   Column                                     Non-Null Count  Dtype 
+---  ------                                     --------------  ----- 
+ 0   id                                         27304 non-null  object
+ 1   url                                        27304 non-null  object
+ 2   source                                     27304 non-null  object
+ 3   retweetCount                               27304 non-null  object
+ 4   replyCount                                 27304 non-null  object
+ 5   likeCount                                  27304 non-null  object
+ 6   quoteCount                                 27304 non-null  object
+ 7   viewCount                                  27304 non-null  object
+ 8   createdAt                                  27304 non-null  object
+ 9   lang                                       27304 non-null  object
+ 10  bookmarkCount                              27304 non-null  object
+ 11  isReply                                    27304 non-null  object
+ 12  isRetweet                                  27304 non-null  object
+ 13  isQuote                                    27304 non-null  object
+ 14  isConversationControlled                   27304 non-null  object
+ 15  quoteId                                    27304 non-null  object
+ 16  inReplyToId                                27304 non-null  object
+ 17  month_year                                 27304 non-null  object
+ 18  illuminating_scored_message                27304 non-null  object
+ 19  election_integrity_Truth_illuminating      27304 non-null  object
+ 20  advocacy_msg_type_illuminating             27304 non-null  object
+ 21  issue_msg_type_illuminating                27304 non-null  object
+ 22  attack_msg_type_illuminating               27304 non-null  object
+ 23  image_msg_type_illuminating                27304 non-null  object
+ 24  cta_msg_type_illuminating                  27304 non-null  object
+ 25  engagement_cta_subtype_illuminating        27304 non-null  object
+ 26  fundraising_cta_subtype_illuminating       27304 non-null  object
+ 27  voting_cta_subtype_illuminating            27304 non-null  object
+ 28  covid_topic_illuminating                   27304 non-null  object
+ 29  economy_topic_illuminating                 27304 non-null  object
+ 30  education_topic_illuminating               27304 non-null  object
+ 31  environment_topic_illuminating             27304 non-null  object
+ 32  foreign_policy_topic_illuminating          27304 non-null  object
+ 33  governance_topic_illuminating              27304 non-null  object
+ 34  health_topic_illuminating                  27304 non-null  object
+ 35  immigration_topic_illuminating             27304 non-null  object
+ 36  lgbtq_issues_topic_illuminating            27304 non-null  object
+ 37  military_topic_illuminating                27304 non-null  object
+ 38  race_and_ethnicity_topic_illuminating      27304 non-null  object
+ 39  safety_topic_illuminating                  27304 non-null  object
+ 40  social_and_cultural_topic_illuminating     27304 non-null  object
+ 41  technology_and_privacy_topic_illuminating  27304 non-null  object
+ 42  womens_issue_topic_illuminating            27304 non-null  object
+ 43  incivility_illuminating                    27304 non-null  object
+ 44  scam_illuminating                          27304 non-null  object
+ 45  freefair_illuminating                      27304 non-null  object
+ 46  fraud_illuminating                         27304 non-null  object
+dtypes: object(47)
+memory usage: 9.8+ MB

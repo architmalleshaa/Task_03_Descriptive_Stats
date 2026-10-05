@@ -1,0 +1,68 @@
+{
+  "pure_python": {
+    "engine": "pure_python",
+    "groupings": [
+      {
+        "keys": [
+          "month_year"
+        ],
+        "groups": 15,
+        "singleton_groups": 0,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "source"
+        ],
+        "groups": 14,
+        "singleton_groups": 3,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 0.9267445001751184
+  },
+  "pandas": {
+    "engine": "pandas",
+    "groupings": [
+      {
+        "keys": [
+          "month_year"
+        ],
+        "groups": 15,
+        "singleton_groups": 0,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "source"
+        ],
+        "groups": 14,
+        "singleton_groups": 3,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 1.3010811670683324
+  },
+  "polars": {
+    "engine": "polars",
+    "groupings": [
+      {
+        "keys": [
+          "month_year"
+        ],
+        "groups": 15,
+        "singleton_groups": 0,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "source"
+        ],
+        "groups": 14,
+        "singleton_groups": 3,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 0.5956929160747677
+  }
+}

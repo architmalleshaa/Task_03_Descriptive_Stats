@@ -1,0 +1,1 @@
+csv.reader with strict utf-8-sig decoding; 27304 rows; 47 columns

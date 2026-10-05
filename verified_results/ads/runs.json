@@ -1,0 +1,71 @@
+{
+  "pure_python": {
+    "engine": "pure_python",
+    "groupings": [
+      {
+        "keys": [
+          "page_id"
+        ],
+        "groups": 4475,
+        "singleton_groups": 1462,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "page_id",
+          "ad_id"
+        ],
+        "groups": 246745,
+        "singleton_groups": 246745,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 29.078341874992475
+  },
+  "pandas": {
+    "engine": "pandas",
+    "groupings": [
+      {
+        "keys": [
+          "page_id"
+        ],
+        "groups": 4475,
+        "singleton_groups": 1462,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "page_id",
+          "ad_id"
+        ],
+        "groups": 246745,
+        "singleton_groups": 246745,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 67.18427254189737
+  },
+  "polars": {
+    "engine": "polars",
+    "groupings": [
+      {
+        "keys": [
+          "page_id"
+        ],
+        "groups": 4475,
+        "singleton_groups": 1462,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "page_id",
+          "ad_id"
+        ],
+        "groups": 246745,
+        "singleton_groups": 246745,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 36.363909707870334
+  }
+}

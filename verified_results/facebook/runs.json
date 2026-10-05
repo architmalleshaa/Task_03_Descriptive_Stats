@@ -1,0 +1,68 @@
+{
+  "pure_python": {
+    "engine": "pure_python",
+    "groupings": [
+      {
+        "keys": [
+          "Facebook_Id"
+        ],
+        "groups": 21,
+        "singleton_groups": 0,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "Type"
+        ],
+        "groups": 10,
+        "singleton_groups": 0,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 0.604182249866426
+  },
+  "pandas": {
+    "engine": "pandas",
+    "groupings": [
+      {
+        "keys": [
+          "Facebook_Id"
+        ],
+        "groups": 21,
+        "singleton_groups": 0,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "Type"
+        ],
+        "groups": 10,
+        "singleton_groups": 0,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 1.1398401658516377
+  },
+  "polars": {
+    "engine": "polars",
+    "groupings": [
+      {
+        "keys": [
+          "Facebook_Id"
+        ],
+        "groups": 21,
+        "singleton_groups": 0,
+        "file": "groups_1.jsonl.gz"
+      },
+      {
+        "keys": [
+          "Type"
+        ],
+        "groups": 10,
+        "singleton_groups": 0,
+        "file": "groups_2.jsonl.gz"
+      }
+    ],
+    "elapsed_seconds": 0.4580794998910278
+  }
+}

@@ -1,0 +1,10 @@
+data/
+results/
+private_work/
+*.csv
+*.tsv
+*.zip
+*.jsonl.gz
+__pycache__/
+.venv/
+.DS_Store
